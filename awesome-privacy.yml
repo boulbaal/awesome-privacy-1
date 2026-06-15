@@ -5085,6 +5085,16 @@ categories:
           Self-hosted photo and video backup and management server, with automatic
           mobile upload, timeline view, albums, search and facial recognition.
           Needs to be self-hosted, but gives you full ownership + control over your photos.
+      - name: FotoApp
+        url: https://github.com/boulbaal/fotoApp
+        icon: https://raw.githubusercontent.com/boulbaal/fotoApp/main/build/icon.png
+        openSource: true
+        followWith: Desktop app
+        github: boulbaal/fotoApp
+        description: |
+          Free, local-only desktop app to organize photos and videos on your own machine.
+          Duplicate detection, GPS map (OpenStreetMap), RAW support, Google Takeout import
+          and smart export. No cloud, no account, no telemetry. Windows, macOS and Linux.
 
     - name: E-Book Readers
       alternativeTo: ['kindle', 'google play books', 'apple books', 'adobe digital editions', 'calibre']
